@@ -67,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The twentieth century saw two revolutions of our understanding of the natural world in the formulation and development of quantum theory and the theory of general relativity. Their predictions have been verified to a spectacular degree experimentally and are central to a number of technologies (have you ever used a computer or a GPS?).
+Our best stories the natural world, the standard model of particle physics and the standard model of cosmology, are told in the languages of quantum theory and general relativity.
+Yet despite this success in using them, we cannot bring them together.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+ 
