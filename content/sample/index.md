@@ -28,3 +28,24 @@ If you see this, all went well!
 Gonna try some math: inline $F=ma$ and as a block.
 
 $$\int_V \mathrm{d}\omega = \int_{\partial V}\omega$$
+
+## That worked out!
+
+Let's try some more stuff[^1]:
+
+For example, this should display a video:
+
+{{< youtube WNSf1F-tcJc}}
+
+
+Also, i'm gonna put in the graph of the Bell scenario.
+
+```mermaid
+graph TD;
+  L-->A;
+  L-->B;
+  X-->A;
+  Y-->B;
+```
+
+[^1]: this is a footnote
