@@ -18,7 +18,7 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Can you see this pic?"
+  caption: "You can see this pic!"
   image: "graph.png"
 ---
 
@@ -57,8 +57,9 @@ This graph aint too stable...
 First, I'll try putting in some HTML
 
 <dl>
-<div> Does it need another div?</div>
+<div> Does it need another div? No.</div>
 <div id="canvasContainer" style="border: 1px solid black"> 
+    Do I need text in here?
 </div>
 </dl>
 
