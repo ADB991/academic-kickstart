@@ -9,6 +9,7 @@ tags: ["Test"]
 featured: true
 
 markup: mmark
+diagram: true
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -59,6 +60,7 @@ First, I'll try putting in some HTML
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
   <dd> What is the dd HTML tag?. Use HTML <em>tags</em>.</dd>
+  <dd> DD is just the new line tag... </dd>
 </dl>
 
 [^1]: this is a footnote
