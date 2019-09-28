@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "From tutorials to musings"
+  image: "kaleido2.jpg"
 ---
