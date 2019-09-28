@@ -35,7 +35,7 @@ Let's try some more stuff[^1]:
 
 For example, this should display a video:
 
-{{< youtube WNSf1F-tcJc>}}
+{{< youtube WNSf1F-tcJc >}}
 
 
 Also, i'm gonna put in the graph of the Bell scenario.
@@ -47,5 +47,18 @@ graph TD;
   X-->A;
   Y-->B;
 ```
+
+This graph aint too stable...
+
+
+### And now for the big one
+
+First, I'll try putting in some HTML
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+  <dd> What is the dd HTML tag?. Use HTML <em>tags</em>.</dd>
+</dl>
 
 [^1]: this is a footnote
