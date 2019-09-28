@@ -35,7 +35,7 @@ Let's try some more stuff[^1]:
 
 For example, this should display a video:
 
-{{< youtube WNSf1F-tcJc}}
+{{< youtube WNSf1F-tcJc>}}
 
 
 Also, i'm gonna put in the graph of the Bell scenario.
