@@ -57,6 +57,7 @@ This graph aint too stable...
 First, I'll try putting in some HTML
 
 <dl>
+<div> Does it need another div?</div>
 <div id="canvasContainer" style="border: 1px solid black"> 
 </div>
 </dl>
