@@ -56,12 +56,11 @@ This graph aint too stable...
 
 First, I'll try putting in some HTML
 
-<dl>
-<div> Does it need another div? No.</div>
+
 <div id="canvasContainer" style="border: 1px solid black"> 
-    Do I need text in here?
 </div>
-</dl>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+<script src="sketch.js"></script>
 
 That's just amazing!
 
