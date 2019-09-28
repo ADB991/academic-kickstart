@@ -1,7 +1,7 @@
 var canvas;
 
 function setup() {
-  canvas = createCanvas(600, 600);
+  canvas = createCanvas(windowWidth, 600);
   canvas.parent("canvasContainer");
 }
 

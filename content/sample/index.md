@@ -67,13 +67,10 @@ First, I'll try putting in some HTML
   <script src="sketch.js"></script>
 
     <div id="canvasContainer" style="border: 1px solid black">
-    I'm gonna put the sketch in here
     </div>
 </div>
 </dl>
 
-Here's to hoping...
-It appears in the wrong place, but it appears!!!!!!!!!!
 That's just amazing!
 
 Trying to move it around...
