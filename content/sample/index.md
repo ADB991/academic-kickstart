@@ -39,13 +39,13 @@ For example, this should display a video:
 {{< youtube WNSf1F-tcJc >}}
 
 
-Also, i'm gonna put in the graph of the Bell scenario.
+Also, i'm gonna put in the graph of the bipartite Bell scenario.
 
 ```mermaid
 graph TD;
+  X-->A;
   L-->A;
   L-->B;
-  X-->A;
   Y-->B;
 ```
 
@@ -61,6 +61,10 @@ First, I'll try putting in some HTML
   <dd>Is something people use sometimes.</dd>
   <dd> What is the dd HTML tag?. Use HTML <em>tags</em>.</dd>
   <dd> DD is just the new line tag... </dd>
+  <dt> And now... the interactive sketch! </dt>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+  <script src="sketch.js"></script>
 </dl>
 
+Here's to hoping...
 [^1]: this is a footnote
