@@ -18,7 +18,7 @@ organizations:
   url: "https://www.phys.uniroma1.it/fisica/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on the interface of quantum gravity and quantum information. What can low energy quantum systems teach us about gravity?
+bio: My research is focused on the interface of quantum gravity and quantum information. What can low energy quantum systems teach us about space and time?
 
 interests:
 - Quantum Gravity
