@@ -34,6 +34,10 @@ education:
     institution: Imperial College London
     year: 2013
     
+potatoes:
+	test:
+	- something
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrea.dibiagio@uniroma1.it  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:andrea.dibiagio@uniroma1.it 
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/minute_rapture/
