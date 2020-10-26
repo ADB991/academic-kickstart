@@ -34,8 +34,6 @@ education:
     institution: Imperial College London
     year: 2013
     
-potatoes:
-	some text in here.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +42,7 @@ potatoes:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:andrea.dibiagio@uniroma1.it  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
