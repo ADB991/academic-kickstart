@@ -43,9 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:andrea.dibiagio@uniroma1.it  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/minute_rapture/
