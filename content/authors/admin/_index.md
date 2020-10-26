@@ -33,6 +33,9 @@ education:
   - course: MSci in Physics with Theoretical Physics
     institution: Imperial College London
     year: 2013
+    
+potatoes:
+	some text in here.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
